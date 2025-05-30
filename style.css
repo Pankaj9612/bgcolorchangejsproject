@@ -1,0 +1,20 @@
+.button {
+  width: 100px;
+  height: 100px;
+  border: solid black 2px;
+  display: inline-block;
+}
+
+#red {
+  background: red;
+}
+
+#white {
+  background: white;
+}
+#orange {
+  background: orange;
+}
+#yellow {
+  background: yellow;
+}
